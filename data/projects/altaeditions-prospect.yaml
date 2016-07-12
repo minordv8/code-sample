@@ -1,0 +1,14 @@
+modalID: 12
+title: Monthly Newsletter Prospect
+date: 2011-12-23
+img: alta-prospect-email.jpg
+client: Alta Editions LLC
+clientLink: "http://www.altaeditions.com/bookshelf/editions"
+category: Email Template Development
+description: I created and managed email campaigns for the online Cookbook (Alta Editions) in Mailchimp. This template was created to provide monthly newsletter updates to subscribed members.
+environment: 
+  - "MailChimp"
+  - "XHTML"
+  - "Responsive"
+  - "Sample"
+

@@ -1,0 +1,16 @@
+modalID: 4
+title: Message Systems Corporate website
+date: March 2015 - July 2015
+img: messagesystems.jpg
+client: Message Systems, Inc.
+clientLink: "https://www.messagesystems.com/"
+category: Front End Development
+description: I was hired as a consultant for Message Systems through the Staffing firm Creative Circle. My primary task involved implementing new design elements and functionality for the company sites @ messagesystems.com and sparkpost.com. My work for MS involved developing and implementing new design comps and UI/UX functionality within the Drupal content system. My last project for the company was to implement a redesign of the theme for the support site within Salesforce’s Desk application
+environment: 
+  - "Acquia Platform"
+  - "Drupal 7"
+  - "HTML5"
+  - "Git"
+  - "SASS"
+  - "Responsive"
+  - "Active"

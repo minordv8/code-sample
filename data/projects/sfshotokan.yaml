@@ -1,0 +1,14 @@
+modalID: 10
+title: San Francisco Shotokan website
+date: 2011-11-28
+img: sfshotokan.jpg
+client: Shotokan of America, San Francisco Dojo
+clientLink: "http://sf.ska.org/"
+category: Wordpress Development
+description: The San Francisco Shotokan Dojo is a local chapter of the Shotokan Association of America headquartered in Santa Barbara CA. As a member of the dojo I volunteered my skills to help update the information website by creating a Wordpress site with a custom designed theme as well as help setting up a Facebook page for the leaders.
+environment: 
+  - "LAMP"
+  - "Wordpress 3.4.1"
+  - "XHTML"  
+  - "Archived"
+

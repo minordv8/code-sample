@@ -1,0 +1,14 @@
+modalID: 13
+title: Vessel 
+date: 2015-04-12
+img: vessel-sample.jpg
+client: Vessel Group, Inc.
+clientLink: "https://www.vessel.com/"
+category: Email Template Development
+description: I created a campaign in Mailchimp as part of my application for a contract position with Vessel. I didn't get the contract but my template work was worth keeping since I did this after MailChimp released a significant update to their UI.
+environment: 
+  - "MailChimp"
+  - "XHTML"
+  - "Responsive"
+  - "Sample"
+

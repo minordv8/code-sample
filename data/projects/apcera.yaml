@@ -1,0 +1,17 @@
+modalID: 2
+title: Apcera Corporate website
+date: October 2015 - May 2016
+img: apcera.jpg
+client: Apcera
+clientLink: "http://www.apcera.com/"
+category: Front End Development
+description: I was brought in to help transfer management of the apcera.com website from 3rd-party Drupal development group to the web team within the marketing group. I also assisted with code deployments on the Pantheon hosting platform. I provided feature and functionality development in Drupal. Created new code in HTML, CSS and JS to support the Apcera.com website.
+environment: 
+  - "Apcera Platform"
+  - "Drupal 7"
+  - "HTML5"
+  - "Git"
+  - "SASS/Suzy"
+  - "Responsive"
+  - "Active"
+  

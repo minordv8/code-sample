@@ -1,0 +1,16 @@
+modalID: 1
+title: The Online Cookbook Club for Curious Cooks
+date: May 2012 – May 2016
+img: altaeditions.jpg
+client: Alta Editions LLC
+clientLink: "http://www.altaeditions.com/bookshelf/editions"
+category: Front End Development
+description: I joined a small team to develop the Alta Editions cookbook for computers, tablets and smartphones. My primary responsibilities were to implement the UI for the cookbook, recipe, media index and user registration and account features. I created templates in JSP as well as views and CSS, JS assets within a custom CMS.
+environment: 
+  - "Maven/Tomcat"
+  - "Struts/JSP"
+  - "Bootstrap 2.3"
+  - "HTML5"
+  - "Git"
+  - "Responsive"
+  - "Active"

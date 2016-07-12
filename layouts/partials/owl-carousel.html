@@ -1,0 +1,13 @@
+{{ "<!-- Owl Carousel Section -->" | safeHTML }}
+<div id="testimonials">
+  <div id="owl-demo" class="owl-carousel owl-theme">
+    {{ range .Site.Data.testimonials }}
+      <div id="#note{{ .noteID }}" class="item text-left note-content">
+        <a href="{{ .clientLink }}" title="LinkedIn Profile" target="_blank"><h5>{{ .name }}</h5></a>
+        <h6>{{ .title }}</h6>
+        <p>{{ .recommendation }}</p>
+        <span>{{ .date }} - {{ .relation }}</span>
+      </div>
+    {{ end }}
+  </div>
+</div>

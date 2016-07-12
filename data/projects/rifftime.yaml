@@ -1,0 +1,15 @@
+modalID: 7
+title: Rifftime Online Music
+date: January 2012 – April 2014
+img: rifftime.jpg
+client: Fanfare Entertainment
+clientLink: "https://www.rifftime.com/"
+category: Front End Development
+description: At Fanfare Entertainment I am primarily responsible for developing the UI for Rifftime.com a source for independent musicians looking to sell digital songs and musical instructional videos that focus on more advance techniques in performance, session recordings and artist development. I worked in ROR system with HAML/SASS interpreting libraries to generate HTML/CSS. Created views and maintained asset files for the UX/UI of the rifftime.com website. I was also responsible for administrating the LAMP stacks for the DEV, STAGE and PROD environments as well as managing the DNS configurations for the various domains and subdomains. I developed and maintained several Wordpress Blog sites including blog.rifftime.com, www.televicious.com and www.fanfareentertainment.com. I also supported the various sites on Social Media services such as Facebook, Google Apps, Youtube and Twitter.
+environment: 
+  - "Linode"
+  - "Ruby on Rails"
+  - "HTML5"
+  - "SASS"
+  - "Archived"
+

@@ -1,0 +1,14 @@
+modalID: 6
+title: Hydrant Media/Sand Hill Digital
+date: June 2014 - February 2015
+img: hydrant-media.jpg
+client: Call Socket USA
+clientLink: "http://hydrant.media/"
+category: Front End Development
+description: I signed a one year service agreement with Call Socket USA to help launch the Digital Media group. At Hydrant.Media I created a Wordpress Network to host a series of web sites designed to provide leads to the Call Socket call center. I also developed the digital groups Ruby on Rails site. In addition to administering DNS hosting providers and cloud server accounts on both GoDaddy and Rackspace I lead the effort to implemented task management and bug tracking tools using the Trello and Jira applications. My primary role involved providing support for the Marketing, Content and Data & analytics groups.
+environment: 
+  - "Rackspace Cloud"
+  - "Ruby on Rails"
+  - "HTML5"
+  - "SASS"
+  - "Archived"

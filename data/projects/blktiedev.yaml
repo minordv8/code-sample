@@ -1,0 +1,13 @@
+modalID: 5
+title: Angel Island Immigration Station Foundation
+date: March 2015 - June 2015
+img: aiisfiv.jpg
+client: Black Tie Dev
+clientLink: "http://aiisfiv.org/"
+category: Wordpress Development
+description: I was hired by the Blk Tie Dev group as a Front-End/Wordpress developer to build the enhanced story submission form and discover (search/filter) page for The Angel Island Immigration Station Foundation’s Immigrant Stories website. I installed and customized several 3rd party plugins including Gravity forms, Theme My Login and Profi Search to create a user generated content submission form that allowed anyone to register for the AIISF site and tell a story of their immigrant story and provide a filterable search index of existing stories.
+environment: 
+  - "LAMP"
+  - "Wordpress 4.5.2"
+  - "HTML5"
+  - "Active"

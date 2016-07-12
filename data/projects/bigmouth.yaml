@@ -1,0 +1,16 @@
+modalID: 3
+title: Fountainhead Advisors and Your Advisors websites
+date: September 2015 - February 2016
+img: bigmouth.jpg
+client: Bigmouth Marketing
+clientLink: "http://bigmouth.com/"
+category: Wordpress Development
+description: I joined Bigmouth as a consultant specifically to help them develop a custom themed Wordpress website for two financial advisor clients. The primary requirement was for a quick turnaround and that the site was mobile and tablet responsive. I created the fountainhead-advisors using a agency account I setup on the Pantheon CMS hosting platform. I created the custom theme utilizing the underscore.me starter theme. I setup the development and testing environments with Git deployment and configured the live site with Varnish Cache and New Relic performance monitoring.
+environment: 
+  - "Pantheon Platform"
+  - "Wordpress 4.5.2"
+  - "HTML5"
+  - "Git"
+  - "SASS/Suzy"
+  - "Responsive"
+  - "Active"

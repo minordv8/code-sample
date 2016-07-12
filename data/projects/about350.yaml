@@ -1,0 +1,13 @@
+modalID: 8
+title: Hudson PTO/Pura Vida by Brandt
+date: 2014-05-01
+img: about350.jpg
+client: About 350, Inc.
+clientLink: "http://www.about350.com/"
+category: Front End Development
+description: I was hired by About 350 to provide the front and back end development for the PuraVidabyBrandt.com and HudsonPTO.org websites. Pura Vida by Brandt is the company website for the Pura Vida restaurant in Cleveland Ohio. I installed and manage the Drupal 7 system, developed the front end code for the custom designed theme and maintain the site’s administration. The Hudson PTO site is a resource to facilitate communication between parents and the school community, supplement the education of the Hudson children and actively support the Hudson City schools.  I installed the Drupal 6 system, developed the front end code for the custom designed theme and maintain the site’s administration.
+environment: 
+  - "LAMP"
+  - "Drupal 6"
+  - "Drupal 7"
+  - "Zen starter theme"

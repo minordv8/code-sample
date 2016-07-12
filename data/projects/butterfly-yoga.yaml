@@ -1,0 +1,16 @@
+modalID: 9
+title: Butterfly Yoga website
+date: 2012-03-12
+img: butterfly.jpg
+client: Butterfly Yoga Studios
+clientLink: "http://www.butterfly-yoga.com/"
+category: Wordpress Development
+description: Through my affiliation with the SF Shotokan group I was referred to the Butterfly Yoga group and agreed to create a Wordpress site with a custom design. I worked with a friend who I’ve worked with on several sites to create the look and feel of the yoga studio website.
+environment: 
+  - "Pantheon Platform"
+  - "Wordpress 4.5.2"
+  - "XHTML"  
+  - "Git"
+  - "Active"
+
+
